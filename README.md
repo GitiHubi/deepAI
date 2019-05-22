@@ -10,24 +10,13 @@ The recording of our talk is available via NVIDIA's GTC On-Demand under the foll
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/deepAI/master?filepath=GTC_2018_Lab.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/deepAI/blob/master/GTC_2018_CoLab.ipynb)
 
-## Publication
+## Reference
 
 ![Autoencoder](https://raw.githubusercontent.com/GitiHubi/deepAI/master/images/autoencoder.png)
 
-The lab is inspired by our publication: 
-
-**"Detection of Anomalies in Large Scale Accounting Data using Deep Autoencoder Networks"** 
-
-by Marco Schreyer, Timur Sattarov, Damian Borth, Andreas Dengel and Bernd Reimer.
+The lab is inspired by our work **"Detection of Anomalies in Large Scale Accounting Data using Deep Autoencoder Networks"** by Marco Schreyer, Timur Sattarov, Damian Borth, Andreas Dengel and Bernd Reimer.
 
 The publication is available via arXiv under the following link: https://arxiv.org/abs/1709.05254
-
-`@article{schreyer2017,
-  title={Detection of anomalies in large scale accounting data using deep autoencoder networks},
-  author={Schreyer, Marco and Sattarov, Timur and Borth, Damian and Dengel, Andreas and Reimer, Bernd},
-  journal={arXiv preprint arXiv:1709.05254},
-  year={2017}
-}`
 
 ## Questions?
 
